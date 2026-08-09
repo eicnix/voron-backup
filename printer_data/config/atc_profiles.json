@@ -1,0 +1,22 @@
+{
+  "cold": {
+    "compensation_end_x": 308.0,
+    "compensation_end_y": 308.0,
+    "compensation_start_x": 22.0,
+    "compensation_start_y": 22.0,
+    "z_compensations": [
+      0.028058,
+      0.019881,
+      -0.030117,
+      0.004127,
+      -0.021948
+    ],
+    "zy_compensations": [
+      0.098445,
+      0.044986,
+      0.011228,
+      -0.081996,
+      -0.072664
+    ]
+  }
+}
